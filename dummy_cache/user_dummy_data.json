@@ -1,0 +1,112 @@
+{
+    "test@gmail.com": {
+        "password": "$2b$10$jolncY2qft3THd5lFeAxaeTFz3G0kJWaDmLiMygIoz05F.UiNK96m",
+        "kanji_data": {
+            "reviews": [
+                {
+                    "freq_mainichi_shinbun": 1450,
+                    "grade": 3,
+                    "heisig_en": "icicle",
+                    "jlpt": 2,
+                    "kanji": "\u6c37",
+                    "kun_readings": [
+                        "\u3053\u304a.\u308b",
+                        "\u3053\u304a\u308a",
+                        "\u3072"
+                    ],
+                    "meanings": [
+                        "congeal",
+                        "freeze",
+                        "hail",
+                        "ice",
+                        "icicle"
+                    ],
+                    "name_readings": [
+                        "\u3059\u3044"
+                    ],
+                    "notes": [],
+                    "on_readings": [
+                        "\u30d2\u30e7\u30a6"
+                    ],
+                    "stroke_count": 5,
+                    "unicode": "6C37"
+                }
+            ],
+            "known": [
+                {
+                    "freq_mainichi_shinbun": 317,
+                    "grade": 1,
+                    "heisig_en": "tree",
+                    "jlpt": 5,
+                    "kanji": "\u6728",
+                    "kun_readings": [
+                        "\u304d",
+                        "\u3053-"
+                    ],
+                    "meanings": [
+                        "tree",
+                        "wood"
+                    ],
+                    "name_readings": [
+                        "\u3050",
+                        "\u3082",
+                        "\u3082\u3068"
+                    ],
+                    "notes": [],
+                    "on_readings": [
+                        "\u30dc\u30af",
+                        "\u30e2\u30af"
+                    ],
+                    "stroke_count": 4,
+                    "unicode": "6728"
+                },
+                {
+                    "freq_mainichi_shinbun": 1,
+                    "grade": 1,
+                    "heisig_en": "day",
+                    "jlpt": 5,
+                    "kanji": "\u65e5",
+                    "kun_readings": [
+                        "-\u304b",
+                        "-\u3073",
+                        "\u3072"
+                    ],
+                    "meanings": [
+                        "Japan",
+                        "counter for days",
+                        "day",
+                        "sun"
+                    ],
+                    "name_readings": [
+                        "\u3042",
+                        "\u3042\u304d",
+                        "\u3044\u308b",
+                        "\u304f",
+                        "\u304f\u3055",
+                        "\u3053\u3046",
+                        "\u3059",
+                        "\u305f\u3061",
+                        "\u306b",
+                        "\u306b\u3063",
+                        "\u306b\u3064",
+                        "\u3078"
+                    ],
+                    "notes": [],
+                    "on_readings": [
+                        "\u30b8\u30c4",
+                        "\u30cb\u30c1"
+                    ],
+                    "stroke_count": 4,
+                    "unicode": "65E5"
+                }
+            ]
+        }
+    },
+    "test2@gmail.com": {
+        "password": "$2b$10$FSSaR1KN3OAGuqMXcaaBgOSWtbsFWcRwNFDkgK.MnQBJcSGt/dxIy",
+        "kanji_data": {
+            "reviews": [],
+            "known": []
+        }
+    }
+}
