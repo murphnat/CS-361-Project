@@ -1,0 +1,173 @@
+{
+  "kanjis": {
+    "日": {
+      "freq_mainichi_shinbun": 1,
+      "grade": 1,
+      "heisig_en": "day",
+      "jlpt": 5,
+      "kanji": "日",
+      "kun_readings": [
+        "-か",
+        "-び",
+        "ひ"
+      ],
+      "meanings": [
+        "Japan",
+        "counter for days",
+        "day",
+        "sun"
+      ],
+      "name_readings": [
+        "あ",
+        "あき",
+        "いる",
+        "く",
+        "くさ",
+        "こう",
+        "す",
+        "たち",
+        "に",
+        "にっ",
+        "につ",
+        "へ"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ジツ",
+        "ニチ"
+      ],
+      "stroke_count": 4,
+      "unicode": "65E5"
+    },
+    "木": {
+      "freq_mainichi_shinbun": 317,
+      "grade": 1,
+      "heisig_en": "tree",
+      "jlpt": 5,
+      "kanji": "木",
+      "kun_readings": [
+        "き",
+        "こ-"
+      ],
+      "meanings": [
+        "tree",
+        "wood"
+      ],
+      "name_readings": [
+        "ぐ",
+        "も",
+        "もと"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ボク",
+        "モク"
+      ],
+      "stroke_count": 4,
+      "unicode": "6728"
+    },
+    "水": {
+      "freq_mainichi_shinbun": 223,
+      "grade": 1,
+      "heisig_en": "water",
+      "jlpt": 5,
+      "kanji": "水",
+      "kun_readings": [
+        "みず",
+        "みず-"
+      ],
+      "meanings": [
+        "water"
+      ],
+      "name_readings": [
+        "うず",
+        "ずみ",
+        "つ",
+        "ど",
+        "み",
+        "みさ",
+        "みつ",
+        "みな",
+        "みん"
+      ],
+      "notes": [],
+      "on_readings": [
+        "スイ"
+      ],
+      "stroke_count": 4,
+      "unicode": "6C34"
+    },
+    "火": {
+      "freq_mainichi_shinbun": 574,
+      "grade": 1,
+      "heisig_en": "fire",
+      "jlpt": 5,
+      "kanji": "火",
+      "kun_readings": [
+        "-び",
+        "ひ",
+        "ほ-"
+      ],
+      "meanings": [
+        "fire"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "カ"
+      ],
+      "stroke_count": 4,
+      "unicode": "706B"
+    },
+    "氷": {
+      "freq_mainichi_shinbun": 1450,
+      "grade": 3,
+      "heisig_en": "icicle",
+      "jlpt": 2,
+      "kanji": "氷",
+      "kun_readings": [
+        "こお.る",
+        "こおり",
+        "ひ"
+      ],
+      "meanings": [
+        "congeal",
+        "freeze",
+        "hail",
+        "ice",
+        "icicle"
+      ],
+      "name_readings": [
+        "すい"
+      ],
+      "notes": [],
+      "on_readings": [
+        "ヒョウ"
+      ],
+      "stroke_count": 5,
+      "unicode": "6C37"
+    },
+    "雨": {
+      "freq_mainichi_shinbun": 950,
+      "grade": 1,
+      "heisig_en": "rain",
+      "jlpt": 5,
+      "kanji": "雨",
+      "kun_readings": [
+        "-さめ",
+        "あま-",
+        "あめ"
+      ],
+      "meanings": [
+        "rain"
+      ],
+      "name_readings": [],
+      "notes": [],
+      "on_readings": [
+        "ウ"
+      ],
+      "stroke_count": 8,
+      "unicode": "96E8"
+    }
+  }
+}
